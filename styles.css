@@ -197,7 +197,7 @@ footer figure {
 }
 
 .flex-item {
-	background: #3b82f6;
+	background: #0062ff;
 	color: #fff;
 	text-align: center;
 	padding: 20px;
@@ -223,7 +223,7 @@ code {
 }
 
 .flex-item-justify {
-	background: #3b82f6;
+	background: #0062ff;
 	padding: 20px;
 	text-align: center;
 	border-radius: 5px;
@@ -255,7 +255,7 @@ code {
 }
 
 .flex-item-align {
-	background: #3b82f6;
+	background: #0062ff;
 	padding: 20px;
 	text-align: center;
 	border-radius: 5px;
@@ -266,7 +266,7 @@ code {
 }
 
 .flex-item-align-content {
-	background: #3b82f6;
+	background: #0062ff;
 	padding: 20px;
 	text-align: center;
 	border-radius: 5px;
@@ -293,7 +293,7 @@ input[type="radio"] {
 	appearance: none;
 	-webkit-appearance: none;
 	background-color: #1e293b;
-	border: 2px solid #3b82f6;
+	border: 2px solid #0062ff;
 	border-radius: 5px;
 	width: 20px;
 	height: 20px;
@@ -303,18 +303,18 @@ input[type="radio"] {
 }
 
 input[type="radio"]:checked {
-	background-color: #3b82f6;
-	border-color: #2563eb;
+	background-color: #0062ff;
+	border-color: #294e9e;
 }
 
 input[type="radio"]:focus {
 	outline: none;
-	box-shadow: 0 0 5px #2563eb;
+	box-shadow: 0 0 5px #0140c7;
 }
 
 /* Estilo do botão */
 button {
-	background-color: #3b82f6;
+	background-color: #0062ff;
 	color: white;
 	padding: 10px 20px;
 	border: none;
@@ -330,7 +330,7 @@ button a {
 }
 
 button:hover {
-	background-color: #2563eb;
+	background-color: #0051ff;
 }
 
 .inputs-examples {
@@ -341,7 +341,7 @@ button:hover {
 
 input[type="text"]:focus {
 	outline: none;
-	border-color: #2563eb;
+	border-color: #0051ff;
 	background-color: #1f2937;
 }
 
@@ -355,7 +355,7 @@ input[type="text"]:focus {
 }
 
 .grid-item {
-	background: #3b82f6;
+	background: rgb(43, 88, 161);
 	padding: 20px;
 	text-align: center;
 	border-radius: 5px;
@@ -365,7 +365,7 @@ input[type="text"]:focus {
 /* Estilo para o select */
 select {
 	padding: 10px;
-	border: 2px solid #3b82f6;
+	border: 2px solid #0062ff;
 	border-radius: 5px;
 	background-color: #1e293b;
 	color: white;
@@ -378,7 +378,7 @@ select {
 
 select:focus {
 	outline: none;
-	border-color: #2563eb;
+	border-color: #0051ff;
 	background-color: #1f2937;
 }
 
@@ -398,7 +398,7 @@ select:focus {
 	}
 
 	.inputs-examples-flex button {
-		background-color: #3b82f6;
+		background-color: #0053d8;
 		color: white;
 		width: 90%;
 		text-align: left;
